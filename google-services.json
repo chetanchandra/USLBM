@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1076821365097",
+    "firebase_url": "https://wbs-app-f40a9.firebaseio.com",
+    "project_id": "wbs-app-f40a9",
+    "storage_bucket": "wbs-app-f40a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076821365097:android:91e2a4c5196241e3",
+        "android_client_info": {
+          "package_name": "com.uslbm.wbs3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1076821365097-f93sea61tirdvvr69843eqtgguedj71l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBUivtqrk5UTbgkof1OFikmGH2TNPQD3U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
